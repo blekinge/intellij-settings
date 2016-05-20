@@ -1,0 +1,1470 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_91&quot;" />
+      <homePath value="/usr/lib/jvm/java-8-oracle" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="http://docs.oracle.com/javase/8/docs/api" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/src.zip!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/src.zip!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.6" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.6.0_45&quot;" />
+      <homePath value="/usr/lib/jvm/java-6-oracle" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/jre/lib/ext/dnsns.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/lib/jvm/java-6-oracle/src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.7" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.7.0_80&quot;" />
+      <homePath value="/usr/lib/jvm/java-7-oracle" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/jfxrt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/ext/sunec.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="http://docs.oracle.com/javafx/2/api/" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/lib/jvm/java-7-oracle/src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.2.1 [plum]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.1p85 ( revision 49769) p85" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.2.1/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/vendor_ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/vendor_ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.2.1p85 ( revision 49769) p85" IS_RVM_SDK="true" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.2.1/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.2.3" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.3p173 ( revision 51636) p173" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.2.3/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.2.3p173 ( revision 51636) p173" IS_RVM_SDK="true" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.2.3/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.0.0-p647" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.0.0p647 ( revision 51631) p647" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/site_ruby/2.0.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/site_ruby/2.0.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/vendor_ruby/2.0.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/vendor_ruby/2.0.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/2.0.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/2.0.0/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs20" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/site_ruby/2.0.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/site_ruby/2.0.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/vendor_ruby/2.0.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/vendor_ruby/2.0.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/2.0.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/2.0.0/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs20" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.0.0p647 ( revision 51631) p647" IS_RVM_SDK="true" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="IntelliJ IDEA IU-145.597.3" />
+      <type value="IDEA JDK" />
+      <homePath value="$APPLICATION_HOME_DIR$" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jsch.agentproxy.pageant.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/xstream-1.4.8.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/nanoxml-2.2.3.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/bootstrap.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/markdown4j-2.2.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/serviceMessages.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/asm4-all.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jsch.agentproxy.sshagent.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/forms_rt.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jettison-1.3.2.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jaxen-1.1.3.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jing.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jasper2_rt.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/slf4j-log4j12-1.7.10.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/httpcore-4.4.1.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jh.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/proxy-vole_20131209.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/groovy-all-2.4.6.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/miglayout-swing.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jsch.agentproxy.usocket-nc.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/clojure-jsr223-1.5.1.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/ideax.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/pty4j-0.6.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/gson-2.5.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/ecj-4.5.2.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jna-platform.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/automaton.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/guava-17.0.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jps-model.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/rhino-js-1_7R4.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jps-launcher.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/hamcrest-core-1.3.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jsch.agentproxy.core.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jgoodies-common-1.2.1.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/optimizedFileManager.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/commons-net-3.3.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/servlet-api.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/coverage-util.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jsch.agentproxy.usocket-jna.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/kotlin-reflect.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jgoodies-looks-2.4.2.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/oromatcher.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/fluent-hc-4.4.1.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jsp-api.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/xml-apis-ext.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jsch-0.1.52.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/cli-parser-1.1.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/imgscalr-lib-4.2.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/extensions.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/xmlrpc-2.0.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/snappy-in-java-0.3.1.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/commons-codec-1.9.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jps-builders.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/xbean.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/velocity.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/resolver.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/microba.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/purejavacomm.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/coverage-agent.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jcip-annotations.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/commons-httpclient-3.1-patched.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/swingx-core-1.6.2.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/xml-apis.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/alloy.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/winp-1.23.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/idea-jsp-openapi.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jsr173_1.0_api.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/markdownj-core-0.4.2-SNAPSHOT.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/asm-all.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jzlib-1.1.1.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/util.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jasper21_rt.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/asm-commons.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/xpp3-1.1.4-min.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/httpmime-4.4.1.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/sanselan-0.98-snapshot.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/xmlgraphics-commons-1.5.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jsch.agentproxy.connector-factory.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jsr166e.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/idea_rt.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/kotlin-runtime.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/boot.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdom.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/xercesImpl.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/trang-core.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/asm.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/trove4j.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/annotations.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/nekohtml-1.9.14.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/resources_en.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jgoodies-forms.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/yjp-controller-api-redist.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/rngom-20051226-patched.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/commons-logging-1.2.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/resources.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/javac2.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/coverage-instrumenter.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/isorelax.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/httpclient-4.4.1.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jayatana-1.2.4.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/clojure-1.7.0.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/picocontainer.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/cglib-2.2.2.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/batik-all.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/icons.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/slf4j-api-1.7.10.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/external-system-rt.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/log4j.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/protobuf-2.5.0.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jna.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-openapi.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/gradle-javaee.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/webDeployment-transport.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/IntelliLang-javaee.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/resources_en.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/PersistenceSupport/lib/persistence-openapi.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/PersistenceSupport/lib/resources_en.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-openapi.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/dekaf-single-2.0.0.229.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/resources_en.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/uml/lib/diagram-api.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring-web.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring-eclipse.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring-aop.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring-api.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="http://docs.oracle.com/javase/8/docs/api" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/src/trove4j_src.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/src/src_css-api.zip!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/src/src_tomcat.zip!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/src/src_javaee-openapi.zip!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/src/src_spring-openapi.zip!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/src/src_jam-openapi.zip!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/src/src_database-openapi.zip!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/src/src_persistence-openapi.zip!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/src.zip!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="IDEA jdk" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_91&quot;" />
+      <homePath value="/usr/lib/jvm/java-8-oracle" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/lib/tools.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/lib/ant-javafx.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/lib/dt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/lib/javafx-mx.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/lib/jconsole.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/lib/sa-jdi.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/lib/packager.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/src.zip!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/src.zip!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="IntelliJ IDEA Community Edition IC-145.SNAPSHOT" />
+      <type value="IDEA JDK" />
+      <version value="java version &quot;1.8.0_91&quot;" />
+      <homePath value="$USER_HOME$/Projects/idea/out/dist.all.ce" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/lib/tools.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/lib/ant-javafx.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/lib/dt.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/lib/javafx-mx.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/lib/jconsole.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/lib/sa-jdi.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/lib/packager.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jsch.agentproxy.pageant.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/xstream-1.4.8.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/nanoxml-2.2.3.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/bootstrap.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/markdown4j-2.2.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/serviceMessages.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/asm4-all.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jsch.agentproxy.sshagent.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/forms_rt.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jaxen-1.1.3.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jing.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/slf4j-log4j12-1.7.10.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/httpcore-4.4.1.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jh.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/proxy-vole_20131209.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/openapi.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/groovy-all-2.4.6.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/miglayout-swing.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jsch.agentproxy.usocket-nc.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/pty4j-0.6.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/gson-2.5.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jdkAnnotations.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/ecj-4.5.2.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jna-platform.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/junit-4.12.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/automaton.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/guava-17.0.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jps-model.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/rhino-js-1_7R4.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jps-launcher.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/hamcrest-core-1.3.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jsch.agentproxy.core.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jgoodies-common-1.2.1.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/optimizedFileManager.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/commons-net-3.3.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/coverage-util.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jsch.agentproxy.usocket-jna.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/kotlin-reflect.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jgoodies-looks-2.4.2.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/idea.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/oromatcher.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/fluent-hc-4.4.1.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/xml-apis-ext.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jsch-0.1.52.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/cli-parser-1.1.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/imgscalr-lib-4.2.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/extensions.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/xmlrpc-2.0.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/snappy-in-java-0.3.1.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/commons-codec-1.9.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jps-builders.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/xbean.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/velocity.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/resolver.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/netty-all-4.1.0.CR7.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/microba.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/purejavacomm.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/coverage-agent.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jcip-annotations.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/commons-httpclient-3.1-patched.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/swingx-core-1.6.2.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/xml-apis.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/winp-1.23.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jsr173_1.0_api.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/markdownj-core-0.4.2-SNAPSHOT.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/asm-all.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jzlib-1.1.1.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/util.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/asm-commons.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/xpp3-1.1.4-min.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/httpmime-4.4.1.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/sanselan-0.98-snapshot.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/xmlgraphics-commons-1.5.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jsch.agentproxy.connector-factory.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jsr166e.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/idea_rt.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/kotlin-runtime.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/boot.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jdom.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/xercesImpl.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/trang-core.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/asm.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/trove4j.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/annotations.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/nekohtml-1.9.14.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/resources_en.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jgoodies-forms.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/rngom-20051226-patched.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/commons-logging-1.2.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/resources.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/javac2.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/coverage-instrumenter.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/isorelax.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/httpclient-4.4.1.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jayatana-1.2.4.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/picocontainer.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/cglib-2.2.2.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/batik-all.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/icons.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/slf4j-api-1.7.10.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/external-system-rt.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/log4j.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/protobuf-2.5.0.jar!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/jna.jar!/" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/analysis-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/analysis-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/annotations" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/annotations-common" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/ant" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/ant-jps-plugin" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/boot" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/bootstrap" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/built-in-server" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/built-in-server-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/ByteCodeViewer" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/colorSchemes" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/commander" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/common-eclipse-util" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/common-javaFX-plugin" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/community-resources" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/compiler-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/compiler-openapi" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/configuration-store-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/copyright" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/core-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/core-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/coverage" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/coverage-common" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/coverage_rt" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/cucumber-jvm-formatter" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/cucumber-test-runner" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/cvs-core" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/cvs-plugin" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/debugger-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/debugger-openapi" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/devkit" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/devkit-jps-plugin" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/diff-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/diff-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/dom-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/dom-openapi" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/duplicates-analysis" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/dvcs-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/dvcs-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/eclipse" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/eclipse-jps-plugin" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/editor-ui-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/editor-ui-ex" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/execution-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/execution-openapi" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/extensions" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/external-system-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/external-system-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/external-system-rt" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/forms-compiler" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/forms_rt" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/git4idea" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/git4idea-rt" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/github" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/gradle" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/gradle-jps-plugin" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/gradle-tooling-extension-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/gradle-tooling-extension-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/groovy-jps-plugin" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/groovy-psi" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/groovy-rt-constants" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/groovy_rt" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/hg4idea" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/icons" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/idea-ui" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/images" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/indexing-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/indexing-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/instrumentation-util" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/IntelliLang" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/IntelliLang-java" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/IntelliLang-xml" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/java-analysis-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/java-analysis-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/java-decompiler-engine" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/java-decompiler-plugin" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/java-i18n" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/java-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/java-indexing-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/java-indexing-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/java-psi-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/java-psi-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/java-runtime" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/java-structure-view" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/javacvs-src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/javaFX" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/javaFX-CE" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/javaFX-jps-plugin" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/jetgroovy" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/jira" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/jps-builders" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/jps-launcher" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/jps-model-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/jps-model-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/jps-model-serialization" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/json" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/jsp-base-openapi" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/jsp-openapi" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/jsp-spi" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/junit" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/junit_rt" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/lang-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/lang-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/lvcs-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/lvcs-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/manifest" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/maven" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/maven-artifact-resolver-common" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/maven-artifact-resolver-m2" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/maven-artifact-resolver-m3" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/maven-artifact-resolver-m31" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/maven-jps-plugin" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/maven-server-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/maven2-server-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/openapi" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/platform-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/platform-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/platform-main" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/platform-resources" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/platform-resources-en" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/projectModel-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/projectModel-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/properties" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/properties-psi-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/properties-psi-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/protocol-reader-runtime" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/python-community" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/python-community-ide-resources" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/python-community-plugin-core" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/python-community-plugin-java" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/python-community-plugin-resources" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/python-openapi" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/python-plugin-tests" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/python-psi-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/python-pydev" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/RegExpSupport" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/relaxng" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/remote-servers-agent-rt" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/remote-servers-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/remote-servers-git" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/remote-servers-git-java" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/remote-servers-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/resources" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/resources-en" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/script-debugger-backend" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/script-debugger-ui" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/smartcvs-src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/smRunner" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/spellchecker" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/structuralsearch" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/structuralsearch-groovy" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/structuralsearch-java" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/structure-view-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/svn4idea" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/tasks-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/tasks-core" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/tasks-java" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/terminal" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/testFramework" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/testFramework-java" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/testng" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/testng_rt" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/testRunner" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/tests_bootstrap" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/typeMigration" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/ui-designer" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/ui-designer-jps-plugin" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/updater" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/usageView" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/util" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/util-rt" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/vcs-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/vcs-api-core" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/vcs-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/vcs-log-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/vcs-log-graph" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/vcs-log-graph-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/vcs-log-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/xdebugger-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/xdebugger-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/xml" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/xml-analysis-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/xml-analysis-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/xml-openapi" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/xml-psi-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/xml-psi-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/xml-structure-view-api" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/xml-structure-view-impl" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/xpath" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/xslt-debugger" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/xslt-debugger-engine" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/xslt-rt" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/out/production/yaml" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/src.zip!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/" />
+            <root type="simple" url="jar://$USER_HOME$/Projects/idea/out/dist.all.ce/lib/src/trove4j_src.jar!/" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/RegExpSupport/gen" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/RegExpSupport/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/RegExpSupport/test" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/build/cucumber-test-runner/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/build/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/images/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/compiler/forms-compiler/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/compiler/forms-compiler/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/compiler/impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/compiler/impl/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/compiler/instrumentation-util/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/compiler/javac2/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/compiler/openapi/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/debugger/impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/debugger/openapi/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/execution/impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/execution/openapi/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/idea-ui/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/java-analysis-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/java-analysis-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/java-impl/gen" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/java-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/java-indexing-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/java-indexing-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/java-psi-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/java-psi-impl/gen" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/java-psi-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/java-runtime/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/java-structure-view/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/java-tests/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/jsp-base-openapi/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/jsp-openapi/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/jsp-spi/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/manifest/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/manifest/test" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/openapi/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/remote-servers/api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/remote-servers/impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/structuralsearch-java/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/testFramework/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/typeMigration/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/java/typeMigration/test" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/jps/antLayout/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/jps/jps-builders/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/jps/jps-builders/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/jps/jps-launcher/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/jps/model-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/jps/model-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/jps/model-impl/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/jps/model-serialization/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/jps/model-serialization/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/jps/plugin-system/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/jps/standalone-builder/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/json/gen" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/json/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/json/tests/test" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/analysis-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/analysis-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/annotations/common/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/annotations/java5/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/annotations/java8/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/boot/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/bootstrap/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/built-in-server-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/built-in-server/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/configuration-store-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/core-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/core-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/diff-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/diff-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/duplicates-analysis/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/dvcs-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/dvcs-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/editor-ui-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/editor-ui-ex/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/extensions/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/extensions/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/external-system-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/external-system-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/external-system-impl/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/external-system-rt/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/forms_rt/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/funcTests/project1/module1/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/indexing-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/indexing-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/lang-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/lang-api/testSources" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/lang-impl/gen" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/lang-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/lang-impl/testSources" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/lvcs-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/lvcs-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/platform-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/platform-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/platform-main/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/platform-tests/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/projectModel-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/projectModel-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/remote-servers/agent-rt/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/remote-servers/api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/remote-servers/impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/script-debugger/backend/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/script-debugger/debugger-ui/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/script-debugger/debugger-ui/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/script-debugger/protocol/protocol-reader-runtime/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/smRunner/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/smRunner/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/structuralsearch/source" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/structuralsearch/testSource" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/structure-view-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/testFramework/bootstrap/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/testFramework/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/testFramework/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/testRunner/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/usageView/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/util-rt/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/util/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/util/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/vcs-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/vcs-api/vcs-api-core/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/vcs-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/vcs-impl/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/vcs-log/api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/vcs-log/graph-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/vcs-log/graph/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/vcs-log/graph/test" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/vcs-log/impl/gen" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/vcs-log/impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/vcs-log/impl/test" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/xdebugger-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/xdebugger-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/platform/xdebugger-impl/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/ByteCodeViewer/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/InspectionGadgets/InspectionGadgetsAnalysis/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/InspectionGadgets/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/InspectionGadgets/test" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/InspectionGadgets/testsrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/IntelliLang/IntelliLang-tests/test" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/IntelliLang/intellilang-jps-plugin/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/IntelliLang/java-support" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/IntelliLang/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/IntelliLang/xml-support" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/IntentionPowerPak/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/IntentionPowerPak/test" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/IntentionPowerPak/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/ShortcutPromoter/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/ant/jps-plugin/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/ant/jps-plugin/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/ant/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/ant/tests/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/commander/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/copyright/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/coverage-common/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/coverage/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/coverage/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/cucumber-jvm-formatter/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/cvs/cvs-core/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/cvs/cvs-plugin/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/cvs/javacvs-src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/cvs/smartcvs-src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/cvs/trilead-ssh2-build213/examples" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/cvs/trilead-ssh2-build213/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/devkit/gen" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/devkit/jps-plugin/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/devkit/jps-plugin/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/eclipse/gen" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/eclipse/jps-plugin/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/eclipse/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/eclipse/testSources" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/editorconfig/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/generate-tostring/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/generate-tostring/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/git4idea/remote-servers-git-java/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/git4idea/remote-servers-git/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/git4idea/resources" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/git4idea/rt/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/git4idea/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/git4idea/test-stepdefs" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/git4idea/tests" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/github/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/github/test" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/google-app-engine/gen" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/google-app-engine/jps-plugin/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/google-app-engine/jps-plugin/testSource" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/google-app-engine/runtime/source" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/google-app-engine/source" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/google-app-engine/testSource" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/gradle/jps-plugin/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/gradle/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/gradle/testSources" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/gradle/tooling-extension-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/gradle/tooling-extension-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/gradle/tooling-extension-impl/testSources" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/groovy/groovy-psi/gen" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/groovy/groovy-psi/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/groovy/hotswap/agentSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/groovy/jps-plugin/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/groovy/rt-constants/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/groovy/rt/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/groovy/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/groovy/structuralsearch-groovy/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/groovy/structuralsearch-groovy/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/groovy/test" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/hg4idea/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/hg4idea/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/java-decompiler/engine/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/java-decompiler/engine/test" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/java-decompiler/plugin/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/java-i18n/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/java-i18n/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/javaFX/FxBuilderEmbedder/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/javaFX/common-javaFX-plugin/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/javaFX/javaFX-CE/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/javaFX/javaFX-jps-plugin/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/javaFX/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/junit/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/junit/test" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/junit_rt/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/maven/artifact-resolver-m2/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/maven/artifact-resolver-m3/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/maven/artifact-resolver-m31/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/maven/artifact-resolver/common/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/maven/jps-plugin/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/maven/jps-plugin/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/maven/maven-server-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/maven/maven2-server-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/maven/maven2-server-impl/test" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/maven/maven3-server-common/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/maven/maven30-server-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/maven/maven32-server-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/maven/src/main/java" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/maven/src/test/java" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/properties/properties-psi-api/gen" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/properties/properties-psi-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/properties/properties-psi-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/properties/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/properties/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/settings-repository/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/svn4idea/resources" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/svn4idea/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/svn4idea/testSource" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/tasks/tasks-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/tasks/tasks-core/jira/gen" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/tasks/tasks-core/jira/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/tasks/tasks-core/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/tasks/tasks-java/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/tasks/tasks-tests/test" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/terminal/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/testng/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/testng/testSources" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/testng_rt/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/ui-designer-core/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/ui-designer/jps-plugin/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/ui-designer/jps-plugin/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/ui-designer/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/ui-designer/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/xpath/xpath-lang/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/xpath/xpath-lang/test" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/xpath/xpath-view/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/xpath/xslt-rt/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/xslt-debugger/engine/impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/xslt-debugger/engine/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/xslt-debugger/rt/impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/xslt-debugger/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/yaml/gen" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/yaml/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/plugins/yaml/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/IntelliLang-python/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/educational-core/course-creator/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/educational-core/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/educational-core/student/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/educational-python/course-creator-python/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/educational-python/gen" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/educational-python/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/educational-python/student-python/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/gen" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/ide/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/ipnb/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/ipnb/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/openapi/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/pluginCore" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/pluginJava" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/pluginTestSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/psi-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/pydevSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/python-community-configure/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/python-rest/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/python-rest/test" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/rest/gen" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/rest/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/python/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/samples/comparingReferences/source" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/samples/comparingReferences/testSource" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/samples/conditionalOperatorConvertor/source" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/samples/conditionalOperatorConvertor/testSource" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/spellchecker/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/spellchecker/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/tools/launcher-generator/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/tools/lexer/jflex-1.4/examples/binary" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/tools/lexer/jflex-1.4/examples/cup" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/tools/lexer/jflex-1.4/examples/interpreter" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/tools/lexer/jflex-1.4/examples/java" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/tools/lexer/jflex-1.4/examples/simple" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/tools/lexer/jflex-1.4/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/updater/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/updater/testSrc" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/xml/dom-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/xml/dom-openapi/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/xml/dom-tests/tests" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/xml/impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/xml/openapi/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/xml/relaxng/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/xml/relaxng/test" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/xml/tests/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/xml/xml-analysis-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/xml/xml-analysis-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/xml/xml-psi-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/xml/xml-psi-impl/gen" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/xml/xml-psi-impl/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/xml/xml-structure-view-api/src" />
+            <root type="simple" url="file://$USER_HOME$/Projects/idea/xml/xml-structure-view-impl/src" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.2.1 [plum] (2)" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.1p85 ( revision 49769) p85" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.2.1/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/vendor_ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/vendor_ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.2.1p85 ( revision 49769) p85" IS_RVM_SDK="true" RVM_GEMSET_NAME="plum" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.2.1/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.2.1 [global]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.1p85 ( revision 49769) p85" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.2.1/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/vendor_ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/vendor_ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.2.1p85 ( revision 49769) p85" IS_RVM_SDK="true" RVM_GEMSET_NAME="global" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.2.1/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.2.3 [global]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.3p173 ( revision 51636) p173" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.2.3/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.2.3p173 ( revision 51636) p173" IS_RVM_SDK="true" RVM_GEMSET_NAME="global" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.2.3/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.0.0-p647 [global]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.0.0p647 ( revision 51631) p647" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/site_ruby/2.0.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/site_ruby/2.0.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/vendor_ruby/2.0.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/vendor_ruby/2.0.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/2.0.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/2.0.0/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs20" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/site_ruby/2.0.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/site_ruby/2.0.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/vendor_ruby/2.0.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/vendor_ruby/2.0.0/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/2.0.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/2.0.0/x86_64-linux" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs20" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.0.0p647 ( revision 51631) p647" IS_RVM_SDK="true" RVM_GEMSET_NAME="global" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/.virtualenvs/default" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/.virtualenvs/default/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/default/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/default/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/default/local/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/default/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.IntelliJIdea2016.1/system/python_stubs/546649503" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/.virtualenvs/tensorflow" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/.virtualenvs/tensorflow/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/tensorflow/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/tensorflow/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/tensorflow/local/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/tensorflow/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.IntelliJIdea2016.1/system/python_stubs/-529632353" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/.virtualenvs/tensorspark" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/.virtualenvs/tensorspark/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/tensorspark/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/tensorspark/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/tensorspark/local/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/tensorspark/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.IntelliJIdea2016.1/system/python_stubs/-1440359588" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/.virtualenvs/learnPythonTheHardWay" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/.virtualenvs/learnPythonTheHardWay/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/learnPythonTheHardWay/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/learnPythonTheHardWay/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/learnPythonTheHardWay/local/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/learnPythonTheHardWay/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.IntelliJIdea2016.1/system/python_stubs/-608019155" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
