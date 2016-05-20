@@ -1,0 +1,95 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="NewPackageInfo" is_action="true" action_type="-1" position="13">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewPythonPackage" is_action="true" action_type="-1" position="12">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewDir" is_action="true" action_type="-1" position="11">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Groovy.NewClass" is_action="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Scala.NewPackageObject" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Scala.NewClass" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Play2.NewTemplate" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewModuleInGroup" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <path value="New Group (1)" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewDir" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewPythonPackage" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="18">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Scala.NewClass" is_action="true" action_type="1" position="19">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Scala.NewPackageObject" is_action="true" action_type="1" position="20">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Groovy.NewClass" is_action="true" action_type="1" position="31">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
