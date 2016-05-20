@@ -1107,6 +1107,31 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
+    <library name="Python 2.7.10 virtualenv at ~/.virtualenvs/python_boilerplate interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.virtualenvs/python_boilerplate/lib/python2.7" />
+        <root url="file://$USER_HOME$/.virtualenvs/python_boilerplate/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.virtualenvs/python_boilerplate/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.virtualenvs/python_boilerplate/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.1/system/python_stubs/-1765697840" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.virtualenvs/python_boilerplate/lib/python2.7" />
+        <root url="file://$USER_HOME$/.virtualenvs/python_boilerplate/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.virtualenvs/python_boilerplate/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.virtualenvs/python_boilerplate/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.1/system/python_stubs/-1765697840" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
     <library name="Python 2.7.10 virtualenv at ~/.virtualenvs/tensorflow interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/.virtualenvs/tensorflow/lib/python2.7" />
