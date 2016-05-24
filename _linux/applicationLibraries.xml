@@ -1182,10 +1182,28 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
-    <library name="Python 3.4.3+ virtualenv at ~/.virtualenvs/jupyterhub (1) interpreter library">
-      <CLASSES />
+    <library name="Python 3.5.0+ virtualenv at ~/.virtualenvs/jupyterhub interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.virtualenvs/jupyterhub/lib/python3.5" />
+        <root url="file://$USER_HOME$/.virtualenvs/jupyterhub/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file://$USER_HOME$/.virtualenvs/jupyterhub/lib/python3.5/lib-dynload" />
+        <root url="file:///usr/lib/python3.5" />
+        <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file://$USER_HOME$/.virtualenvs/jupyterhub/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.1/system/python_stubs/-695414978" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
       <JAVADOC />
-      <SOURCES />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.virtualenvs/jupyterhub/lib/python3.5" />
+        <root url="file://$USER_HOME$/.virtualenvs/jupyterhub/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file://$USER_HOME$/.virtualenvs/jupyterhub/lib/python3.5/lib-dynload" />
+        <root url="file:///usr/lib/python3.5" />
+        <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file://$USER_HOME$/.virtualenvs/jupyterhub/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.1/system/python_stubs/-695414978" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
     </library>
     <library name="rake (v0.9.6, RVM: ruby-2.0.0-p647 [global]) [gem]">
       <CLASSES>
