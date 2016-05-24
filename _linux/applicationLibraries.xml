@@ -1182,6 +1182,11 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
+    <library name="Python 3.4.3+ virtualenv at ~/.virtualenvs/jupyterhub (1) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="rake (v0.9.6, RVM: ruby-2.0.0-p647 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p647/lib/ruby/2.0.0/dl" />
