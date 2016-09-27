@@ -1,0 +1,52 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 2.7.12 virtualenv at ~/.virtualenvs/composetest27 interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.virtualenvs/composetest27/lib/python2.7" />
+        <root url="file://$USER_HOME$/.virtualenvs/composetest27/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.virtualenvs/composetest27/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.virtualenvs/composetest27/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.2/system/python_stubs/531129015" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.virtualenvs/composetest27/lib/python2.7" />
+        <root url="file://$USER_HOME$/.virtualenvs/composetest27/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.virtualenvs/composetest27/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.virtualenvs/composetest27/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.2/system/python_stubs/531129015" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.5.2 virtualenv at ~/.virtualenvs/composetest interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.virtualenvs/composetest/lib/python3.5" />
+        <root url="file://$USER_HOME$/.virtualenvs/composetest/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file://$USER_HOME$/.virtualenvs/composetest/lib/python3.5/lib-dynload" />
+        <root url="file:///usr/lib/python3.5" />
+        <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file://$USER_HOME$/.virtualenvs/composetest/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.2/system/python_stubs/99841116" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.virtualenvs/composetest/lib/python3.5" />
+        <root url="file://$USER_HOME$/.virtualenvs/composetest/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file://$USER_HOME$/.virtualenvs/composetest/lib/python3.5/lib-dynload" />
+        <root url="file:///usr/lib/python3.5" />
+        <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file://$USER_HOME$/.virtualenvs/composetest/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.2/system/python_stubs/99841116" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
