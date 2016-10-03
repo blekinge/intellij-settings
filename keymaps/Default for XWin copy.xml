@@ -1,0 +1,19 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateMavenProjectsToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="EditorSplitLine" />
+  <action id="IpnbRunCellInplaceAction" />
+  <action id="Macro.runInTerminal">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="ScalaConsole.Execute" />
+  <action id="ViewSource" />
+</keymap>

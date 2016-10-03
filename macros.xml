@@ -1,9 +1,9 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="runInTerminal2">
+    <macro name="runInTerminal">
       <action id="EditorCopy" />
       <action id="ActivateTerminalToolWindow" />
-      <shortuct text="control V" />
+      <shortuct text="shift INSERT" />
       <shortuct text="ENTER" />
     </macro>
   </component>
