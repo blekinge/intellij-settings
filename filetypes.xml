@@ -13,6 +13,7 @@
       <mapping ext="install" type="PHP" />
       <mapping pattern="scratch" type="PLAIN_TEXT" />
       <mapping pattern="emptyData" type="PLAIN_TEXT" />
+      <mapping pattern="transfer_acknowledged" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="PostgresIntegrationTests" type="PLAIN_TEXT" />
