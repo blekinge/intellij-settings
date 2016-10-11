@@ -3,6 +3,7 @@
     <resource url="http://camel.apache.org/schema/spring/camel-spring.xsd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/9caa49d4_camel-spring.xsd" />
     <resource url="http://hul.harvard.edu/ois/xml/xsd/jhove/1.6/jhove.xsd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/ac1b31b0_jhove.xsd" />
     <resource url="http://karaf.apache.org/xmlns/features/v1.0.0" location="$USER_HOME$/.IntelliJIdea14/system/extResources/5fcce672_v1.0.0.xml" />
+    <resource url="http://maven.apache.org/xsd/assembly-1.1.0.xsd" location="$USER_HOME$/.IntelliJIdea2016.2/system/extResources/489cc366_assembly-1.1.0.xsd" />
     <resource url="http://maven.apache.org/xsd/assembly-1.1.1.xsd" location="$USER_HOME$/.IntelliJIdea15/system/extResources/48aadae7_assembly-1.1.1.xsd" />
     <resource url="http://maven.apache.org/xsd/assembly-1.1.2.xsd" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/48b8f268_assembly-1.1.2.xsd" />
     <resource url="http://naiad:7880/schemaStore/batchModifySchema.xsd" location="$USER_HOME$/.IntelliJIdea2016.2/system/extResources/ae8ff09e_batchModifySchema.xsd.xml" />
