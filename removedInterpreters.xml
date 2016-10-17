@@ -1,0 +1,9 @@
+<application>
+  <component name="PySdkService">
+    <option name="ADDED_SDKS">
+      <set>
+        <option value="/usr/bin/python2.4" />
+      </set>
+    </option>
+  </component>
+</application>
