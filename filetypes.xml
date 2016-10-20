@@ -27,6 +27,7 @@
       <mapping pattern="scratch" type="PLAIN_TEXT" />
       <mapping pattern="sdfs" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern=".sudo_as_admin_successful" type="PLAIN_TEXT" />
       <mapping pattern="Placeholder" type="PLAIN_TEXT" />
       <mapping pattern="transfer_acknowledged" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
