@@ -25,11 +25,13 @@
       <mapping pattern="Placeholder" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="DockerIntegrationTests" type="PLAIN_TEXT" />
+      <mapping pattern="ipa-precreate-hosts" type="PLAIN_TEXT" />
       <mapping pattern="PostgresIntegrationTests" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="jupyterhub" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="emptyData" type="PLAIN_TEXT" />
+      <mapping pattern="init-ipa-server-install-options" type="PLAIN_TEXT" />
       <mapping pattern="sdfs" type="PLAIN_TEXT" />
       <mapping pattern=".bazelrc" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
@@ -38,12 +40,15 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="script" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="simple" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="ipa" type="PLAIN_TEXT" />
       <mapping ext="ldiff" type="PLAIN_TEXT" />
+      <mapping ext="pam-service" type="PLAIN_TEXT" />
       <mapping ext="traineddata" type="PLAIN_TEXT" />
       <mapping pattern="*.properties.template" type="Properties" />
       <mapping ext="build" type="Python" />
