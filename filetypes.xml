@@ -39,6 +39,7 @@
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="PostgresIntegrationTests" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="simple" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
