@@ -17,6 +17,7 @@
       <mapping pattern="release procedure" type="PLAIN_TEXT" />
       <mapping pattern="transfer_acknowledged" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="ipa-server-install-options" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern=".sudo_as_admin_successful" type="PLAIN_TEXT" />
       <mapping pattern="scratch" type="PLAIN_TEXT" />
