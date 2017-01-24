@@ -29,6 +29,7 @@
       <mapping pattern="PostgresIntegrationTests" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="jupyterhub" type="PLAIN_TEXT" />
+      <mapping pattern="allow_all_disabled" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="emptyData" type="PLAIN_TEXT" />
       <mapping pattern="init-ipa-server-install-options" type="PLAIN_TEXT" />
